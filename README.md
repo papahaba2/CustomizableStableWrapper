@@ -16,9 +16,6 @@ A smart contract that allows wrapping multiple stablecoins (USDT, USDC, DAI, etc
 
 📊 **Transparent Reserves**: Check reserves for each stablecoin
 
-### Installation
-```bash
-npm install @openzeppelin/contracts
 
 Русская Версия
 
